@@ -57,8 +57,8 @@
 
 {"name":"ไทยรัฐทีวี",
 "image":"https://cms.dmpcdn.com/livetv/2024/07/18/848915e0-44e9-11ef-9e86-a13521bc09bd_webp_original.webp",
-"url":"https://www.thairath.co.th/tv/live",
-"referer":"https://www.thairath.co.th/home",
+"url":"https://ssai-streaming.thairath.co.th/bamm-csai/720p/index.m3u8",
+"referer":"https://www.thairath.co.th/tv/live",
 "info":"IBC cable TV",
 "playInNatPlayer":"true"},
 
@@ -71,8 +71,8 @@
 
 {"name":"อมรินทร์ทีวี",
 "image":"https://cms.dmpcdn.com/livetv/2024/07/23/5e86fbc0-48c0-11ef-9fca-d9696b8af2b7_webp_original.webp",
-"url":"https://www.amarintv.com/live",
-"referer":"https://www.amarintv.com/",
+"url":"https://tv.trueid.net/th-th/live/amarintv-hd",
+"referer":"https://tv.trueid.net/th-th",
 "info":"IBC cable TV",
 "playInNatPlayer":"true"},
 
@@ -113,8 +113,8 @@
 
 {"name":"เนชั่นทีวี",
 "image":"https://cms.dmpcdn.com/livetv/2023/09/09/9c6f59c0-4ebe-11ee-99a7-832609069236_webp_original.webp",
-"url":"https://www.nationtv.tv/category/nationtv/live",
-"referer":"https://www.nationtv.tv/",
+"url":"https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8",
+"referer":"https://www.nationtv.tv/category/nationtv/live",
 "info":"IBC cable TV",
 "playInNatPlayer":"true"},
 
@@ -129,6 +129,13 @@
 "image":"https://cms.dmpcdn.com/livetv/2025/01/28/d62afee0-dd32-11ef-953b-ef346c97cada_webp_original.webp",
 "url":"https://server1.streamssl.com/stream/news1_hi.m3u8",
 "referer":"https://www.tvjaa.com/news1.html",
+"info":"IBC cable TV",
+"playInNatPlayer":"true"},
+
+{"name":"TOPNEWS",
+"image":"https://cms.dmpcdn.com/livetv/2025/06/19/cab7bcc0-4cc6-11f0-b437-536ba535ba63_webp_original.webp",
+"url":"https://live.topnews.co.th/hls/topnews_a_720.m3u8",
+"referer":"https://www.topnews.co.th/#live-section",
 "info":"IBC cable TV",
 "playInNatPlayer":"true"},
 ]}
