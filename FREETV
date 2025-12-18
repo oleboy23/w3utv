@@ -22,7 +22,7 @@
 
 {"name":"ช่อง 7HD",
 "image":"https://cms.dmpcdn.com/livetv/2023/07/19/212d15e0-25e7-11ee-bfc1-85e95548413c_webp_original.webp",
-"url":"https://www.bugaboo.tv/th/live/",
+"url":"https://live-cdn-cf-b.bugaboo.tv/live_line4/alive_1080p.m3u8?vhost=streaming-hwc.bugaboo.tv",
 "referer":"https://www.bugaboo.tv/th/",
 "info":"IBC cable TV",
 "playInNatPlayer":"true"},
@@ -43,8 +43,8 @@
 
 {"name":"เอ็นบีที",
 "image":"https://cms.dmpcdn.com/livetv/2023/10/02/4a2afc60-60f1-11ee-a78e-f70ba0052fab_webp_original.webp",
-"url":"https://prdee.prd.go.th/live/63bd400d0deca90012ce6c88",
-"referer":"https://prdee.prd.go.th/",
+"url":"https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8",
+"referer":"",
 "info":"IBC cable TV",
 "playInNatPlayer":"true"},
 
@@ -64,8 +64,8 @@
 
 {"name":"พีพีทีวี",
 "image":"https://cms.dmpcdn.com/livetv/2024/06/26/48fb8a90-338b-11ef-a958-ed31043c43a3_webp_original.webp",
-"url":"https://www.pptvhd36.com/live",
-"referer":"https://www.pptvhd36.com/",
+"url":"https://tv.trueid.net/th-th/live/pptv-hd",
+"referer":"https://tv.trueid.net/th-th",
 "info":"IBC cable TV",
 "playInNatPlayer":"true"},
 
@@ -106,8 +106,8 @@
 
 {"name":"โมโน 29",
 "image":"https://cms.dmpcdn.com/livetv/2019/01/10/35a35017-8473-4953-8474-5c58d805b74a.png",
-"url":"https://www.monomax.me/livetv",
-"referer":"https://www.monomax.me/",
+"url":"https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8",
+"referer":"https://www.monomax.me/livetv",
 "info":"IBC cable TV",
 "playInNatPlayer":"true"},
 
